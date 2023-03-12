@@ -6,7 +6,7 @@ public class AddNumbers {
         sum = a+b;
         c=a+b;
         System.out.println("the sum"+c);
-        System.out.println("the sum"+c);
+     
 
     }
 

@@ -14,6 +14,9 @@ public class largestNum{
         if(a>b && a>c){
             System.out.println(a+" is the largest ");
 
+            if(b>a && b>c){
+                System.out.println(b+" is the largest ");
+            }
         }
         else{
             System.out.println(c+" is the largest ");
